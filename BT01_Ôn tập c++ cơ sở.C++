@@ -4,8 +4,8 @@ using namespace std;
 struct nhanvien{
     string MANV;
     string TENNV;
-    double float luongcoban;
-    double float heso ;
+    double  luongcoban;
+    double  heso ;
 };
 typedef nhanvien nv ;
 void nhapvao(nv*x){
@@ -21,7 +21,7 @@ void nhapvao(nv*x){
     cin>>x->heso;
 }
 void inra(nv*x){
-    cout<<"ma sinh vien la:"<<x->MANV<<"\n";
+    cout<<"ma nhan vien  la:"<<x->MANV<<"\n";
     cout<<"hovaten:"<<x->TENNV<<"\n";
     cout<<"LUONG CO BAN:"<<x->luongcoban<<"\n";
     cout<<"HE SO:"<<x->heso<<"\n";
