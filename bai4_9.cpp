@@ -6,6 +6,7 @@ class  sinhvien{
     private:
     string hoten;
     string namsinh;
+
     float diem[5];
     public:
     void nhap();
