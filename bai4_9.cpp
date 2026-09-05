@@ -3,6 +3,7 @@
 #include<string>
 using namespace std;
 class  sinhvien{
+
     private:
     string hoten;
     string namsinh;
