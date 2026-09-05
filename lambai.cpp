@@ -91,6 +91,7 @@ int main(){
     for(int i=0;i<n;i++){
         sv.tb(&dssv[i]);
     }
+    
     for(int i=0;i<n;i++){
         sv.phaithitot(&dssv[i]);
     }
