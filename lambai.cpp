@@ -2,6 +2,7 @@
 using namespace std;
 #include<vector>
 class sinhvien {
+
     private:
     string hoten;
     string namsinh;
