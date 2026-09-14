@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 #include<vector>
 
 class nguoi {
